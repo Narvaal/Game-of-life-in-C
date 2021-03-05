@@ -4,6 +4,8 @@
 <h3>
   Uma versão do <a href="https://pt.wikipedia.org/wiki/Jogo_da_vida">jogo da vida</a> de john conway feito inteiramente em C com interface totalmente no console.
   Não é necessário a utilização de bibliotecas adicionais para a execução do programa.
+  
+  O programa so é compativel com windows 
 </h3>
 
 # Menu inicial 
@@ -21,4 +23,4 @@
   
 # Vídeo demonstração
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EwBIiQ26DHk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/EwBIiQ26DHk
