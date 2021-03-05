@@ -9,7 +9,8 @@
 <h4>
   No menu principal é exibido todos os exemplos pré programados. O usuário pode escolher um dos exemplos e visualizar sua execução
 </h4>
-![Screenshot_1](https://user-images.githubusercontent.com/44413008/110084086-4b695180-7d6e-11eb-976d-caf62b5c0db3.png)
+
+<img src="https://user-images.githubusercontent.com/44413008/110084086-4b695180-7d6e-11eb-976d-caf62b5c0db3.png">
 
 # Simulações
 
