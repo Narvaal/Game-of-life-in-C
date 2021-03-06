@@ -3,12 +3,12 @@
    * [Apresentação](#Apresentação)
    * [Execução](#Execução)
    * [Simulações](#Simulações)
-   * [Vídeo demonstração](#Vídeo demonstração)
+   * [Vídeo demonstração](#Vídeo-demonstração)
    * 
 <!--te-->
 
 
-# 💻 Apresentação
+# 💻Apresentação
 <h3>
   Uma versão do <a href="https://pt.wikipedia.org/wiki/Jogo_da_vida">jogo da vida</a> de john conway feito inteiramente em C com interface totalmente no console.
   Não é necessário a utilização de bibliotecas adicionais para a execução do programa.
@@ -37,6 +37,6 @@
 <!--te-->
 
 
-# 🎥Vídeo demonstração
+# 🎥Vídeo-demonstração
 
 https://www.youtube.com/embed/EwBIiQ26DHk
