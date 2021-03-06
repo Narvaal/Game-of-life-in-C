@@ -3,8 +3,8 @@
    * [Apresentação](#Apresentação)
    * [Execução](#Execução)
    * [Simulações](#Simulações)
+   * [Tecnologias](#Tecnologias)
    * [Vídeo demonstração](#Vídeo-demonstração)
-   * 
 <!--te-->
 
 
